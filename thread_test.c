@@ -5,7 +5,7 @@ void loop1(void) {
     
     int l = 0; //local variable to loop1
     
-    if (1) printf("Started Thread Simple numbers\n");
+    if (1) printf("Started Thread number\n");
     
     while (1) {
         printf("Thread numbers::\tl: %d\tg: %d\n", l, g);
